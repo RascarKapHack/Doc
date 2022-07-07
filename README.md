@@ -20,6 +20,4 @@
         height="297px"/>
 </p>
 
-<br>
-
 ## 2. Practice questions
