@@ -13,4 +13,13 @@
         style="float: left; margin-right: 10px;"
         width="210x"
         height="297px"/>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/51tqaNkGpnL._SX404_BO1,204,203,200_.jpg"
+        alt="Markdown Monster icon"
+        style="float: left; margin-right: 10px;"
+        width="210x"
+        height="297px"/>
 </p>
+
+<br>
+
+## 2. Practice questions
