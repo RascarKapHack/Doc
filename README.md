@@ -5,13 +5,13 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/81tzCSVZrKL.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;"
-     width="262.5px"
-     height="371.25px"
+     width="210px"
+     height="297px"
 />
-
+     
 <img src="https://pictures.abebooks.com/isbn/9781260142655-fr.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;"
-     width="262.5px"
-     height="371.25px"
+     width="210x"
+     height="297px"
 />
