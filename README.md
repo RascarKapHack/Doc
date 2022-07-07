@@ -1,6 +1,6 @@
 ![believe-in-yourself](https://raw.githubusercontent.com/RascarKapHack/RascarKapHack/37dd31f736dc4c91a8eaa813f7826a39fbe0dad8/img/if-you-believe-in-yourself-you-can-succeed.svg?style=centerme)
 
-## 1. Study Guides
+## 📚 1. Study Guides
 
 <p float="left">
     <a href="https://github.com/RascarKapHack/Doc/blob/main/1.%20Study%20guide/1.%20Official%20study%20guide%20-%20Ninth%20Edition.epub">
@@ -26,7 +26,7 @@
     </a>
 </p>
 
-## 2. Practice questions
+## 📝 2. Practice questions
 
 
 <p float="left">
@@ -46,7 +46,7 @@
     </a>
 </p>
 
-## 3. Additional courses
+## 📖 3. Additional courses
 <p float="left">
     <a href="https://github.com/RascarKapHack/Doc/blob/main/3.%20Additional%20courses/Official%20ISC2%20guide%20to%20the%20cissp%20CBK%20-%20Fourth%20Edition%20-%202015.pdf">
     <img src="https://images-eu.ssl-images-amazon.com/images/I/41uq6ImdYzL._SY264_BO1,204,203,200_QL40_ML2_.jpg"
