@@ -7,7 +7,9 @@
      style="float: left; margin-right: 10px;"
      width="262.5px"
      height="371.25px"
-/><img src="https://pictures.abebooks.com/isbn/9781260142655-fr.jpg"
+/>
+
+<img src="https://pictures.abebooks.com/isbn/9781260142655-fr.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;"
      width="262.5px"
